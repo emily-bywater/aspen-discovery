@@ -20,4 +20,4 @@
   - Sort by: users can sort by Title, Date Added, Recently Added, or User Defined. 
     - This allows the user to drag-and-drop the list items into the order the user likes.
   - Delete List: the user can delete the list. They will be prompted with a modal window asking "Are you sure you want to delete this list?" before deleting. 
-  - ![user-lists3](/manual/images/user-lists3.png)
+  - ![user-lists-3](/manual/images/user-lists-3.png)
