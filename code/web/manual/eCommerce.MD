@@ -11,7 +11,7 @@
   - [[![PayPal Integration Video](/manual/images/PayPal.png)]](https://www.youtube.com/watch?v=QpPO85A1Alk&list=PLV_OXyJ1D3Bjr49J9FQ3M0uNhiNv4E04f&index=4)
   
   
-  ![Watch on YouTube](https://www.youtube.com/watch?v=QpPO85A1Alk&list=PLV_OXyJ1D3Bjr49J9FQ3M0uNhiNv4E04f&index=4)
+  [Watch on YouTube](https://www.youtube.com/watch?v=QpPO85A1Alk&list=PLV_OXyJ1D3Bjr49J9FQ3M0uNhiNv4E04f&index=4)
   
   - PayPal Credit 
   - Debit or Credit Card
